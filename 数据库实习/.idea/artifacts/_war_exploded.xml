@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="数据库实习:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="数据库实习" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="tomcat" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/java/mysql-connector-java-8.0.11/lib/c3p0-0.9.1-pre6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/java/mysql-connector-java-8.0.11/lib/c3p0-0.9.1-pre6.src.zip" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/java/mysql-connector-java-8.0.11/lib/jboss-common-jdbc-wrapper-src.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/java/mysql-connector-java-8.0.11/lib/jboss-common-jdbc-wrapper.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/java/mysql-connector-java-8.0.11/lib/protobuf-java-2.6.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/../../lib/java/mysql-connector-java-8.0.11/lib/slf4j-api-1.6.1.jar" />
+        </element>
+        <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      </element>
+      <element id="javaee-facet-resources" facet="数据库实习/web/web" />
+    </root>
+  </artifact>
+</component>

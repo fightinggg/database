@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/oracle/create/createtablevip.sql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/filter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/servlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/servlet/PasswordMdiServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/servlet/UserAddServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/servlet/UserDelServlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/wrq/utils" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
